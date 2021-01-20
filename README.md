@@ -10,7 +10,7 @@
 
 - 💻 Conhecimento: HTML 5, CSS 3. 
 
-- 🌱 Atualmente estudando: JavaScript, Bootstrap, C #. 
+- 🌱 Atualmente estudando: JavaScript, Bootstrap, C#. 
 
 - 👨‍💻 Meus projetos  <details> <summary>Veja Aqui</summary> <a href="https://github.com/DSB88?tab=repositories"> <B> Link </B> </a> </details>
 
