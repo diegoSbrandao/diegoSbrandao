@@ -12,6 +12,8 @@
 - ⚡ A resposta à questão fundamental da vida, do universo e de tudo é 42 
 
 
+![Alt Text](https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif)
+
 
 
 ### Contate me:
