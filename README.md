@@ -7,6 +7,9 @@
 <img align="right" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="200" height="150" />
 
 
+
+- 💻 Conhecimento: HTML 5, CSS 3 
+
 - 🌱 Atualmente estudando: JavaScript, Bootstrap, C #. 
 
 - 👨‍💻 Meus projetos  <details> <summary>Veja Aqui</summary> https://github.com/DSB88?tab=repositories </details>
@@ -22,7 +25,6 @@
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-brandão-7b72b5202/)](https://www.linkedin.com/in/diego-brandão-7b72b5202/)
 
 
-<br />
 
 ### Linguagens e Ferramentas:
 
@@ -35,12 +37,6 @@
 
 
 <br />
-<br />
-<br />
-<br />
-
-
-
 
 
 
