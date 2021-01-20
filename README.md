@@ -7,7 +7,7 @@
 
 - 🌱 Atualmente estudando: JavaScript, Bootstrap, C #. 
 
-- 👨‍💻 Meus projetos [https://github.com/DSB88?tab=repositories](https://github.com/DSB88?tab=repositories)
+- 👨‍💻 Meus projetos (https://github.com/DSB88?tab=repositories)
 
 - ⚡ A resposta à questão fundamental da vida, do universo e de tudo é 42 
 
