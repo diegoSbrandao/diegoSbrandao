@@ -12,7 +12,7 @@
 
 - 🌱 Atualmente estudando: JavaScript, Bootstrap, C#. 
 
-- 👨‍💻 Meus projetos  <details> <summary>Veja Aqui</summary> <a href="https://github.com/DSB88?tab=repositories"> <B> Link </B> </a> </details>
+- 👨‍💻 Meus projetos  <details> <summary> Clique no link abaixo</summary> 🛠<a href="https://github.com/DSB88?tab=repositories"> <B> Link </B> </a> </details>
 
 
 - ⚡ A resposta à questão fundamental da vida, do universo e de tudo é 42.
@@ -42,9 +42,9 @@
 
 
 <details>
-  <summary>GitHub Status</summary>
+  <summary>GitHub Stats</summary>
 
-![Diego Brandão github status](https://github-readme-stats.vercel.app/api?username=dsb88&show_icons=true&theme=midnight-purple)
+![Diego Brandão github stats](https://github-readme-stats.vercel.app/api?username=dsb88&show_icons=true&theme=midnight-purple)
 
 </details>
 
