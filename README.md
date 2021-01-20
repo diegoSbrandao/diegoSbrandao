@@ -4,6 +4,8 @@
 
 ## 👨‍🎓Estudante em Análise e Desenvolvimento de Sistemas - Fatec RL. 
 
+<img align="right" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="300" height="300" />
+
 
 - 🌱 Atualmente estudando: JavaScript, Bootstrap, C #. 
 
@@ -11,8 +13,6 @@
 
 - ⚡ A resposta à questão fundamental da vida, do universo e de tudo é 42 
 
-
-![Alt Text](https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif)
 
 
 
