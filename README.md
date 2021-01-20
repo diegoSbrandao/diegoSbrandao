@@ -2,7 +2,7 @@
 
 
 
-## 👨‍🎓Estudante em Análise e Desenvolvimento de Sistemas - Fatec RL. 
+## 👨‍🎓Estudante de Análise e Desenvolvimento de Sistemas - Fatec RL. 
 
 <img align="right" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="200" height="150" />
 
