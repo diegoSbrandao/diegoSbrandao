@@ -8,7 +8,7 @@
 
 
 
-- 💻 Conhecimento: HTML 5, CSS 3 
+- 💻 Conhecimento: HTML 5, CSS 3. 
 
 - 🌱 Atualmente estudando: JavaScript, Bootstrap, C #. 
 
@@ -37,7 +37,7 @@
 
 
 <br />
-
+<br />
 
 
 
