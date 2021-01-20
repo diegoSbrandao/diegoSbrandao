@@ -1,31 +1,31 @@
-# Olá prazer, Diego Brandão 🐱‍👤
+# Hello, I am Diego Brandão 🐱‍👤
 
 
 
-## 👨‍🎓Estudante de Análise e Desenvolvimento de Sistemas - Fatec RL. 
+## 👨‍🎓Student of Systems Analysis and Development - Fatec RL.
 
 <img align="right" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="200" height="150" />
 
 
 
-- 💻 Conhecimento: HTML 5, CSS 3. 
+- 💻 Knowledge: HTML 5, CSS 3. 
 
-- 🌱 Atualmente estudando: JavaScript, Bootstrap, C#. 
+- 🌱 Currently studying: JavaScript, Bootstrap, C#. 
 
-- 👨‍💻 Meus projetos  <details> <summary> Clique no link abaixo</summary> 🛠<a href="https://github.com/DSB88?tab=repositories">  <B> Link </B> </a> </details>
+- 👨‍💻 My projects <details> <summary> Click on the link below </summary> 🛠<a href="https://github.com/DSB88?tab=repositories">  <B> Link </B> </a> </details>
 
-- ⚡ A resposta à questão fundamental da vida, do universo e de tudo é 42.
-
-
+- ⚡ The answer to the fundamental question of life, the universe and everything is 42.
 
 
-### Contate me:
+
+
+### Contact me:
 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-brandão-7b72b5202/)](https://www.linkedin.com/in/diego-brandão-7b72b5202/)
 
 
 
-### Linguagens e Ferramentas:
+### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
