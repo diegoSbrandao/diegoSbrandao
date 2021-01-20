@@ -4,14 +4,15 @@
 
 ## 👨‍🎓Estudante em Análise e Desenvolvimento de Sistemas - Fatec RL. 
 
-<img align="right" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="300" height="300" />
+<img align="right" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="200" height="150" />
 
 
 - 🌱 Atualmente estudando: JavaScript, Bootstrap, C #. 
 
 - 👨‍💻 Meus projetos  <details> <summary>Veja Aqui</summary> https://github.com/DSB88?tab=repositories </details>
 
-- ⚡ A resposta à questão fundamental da vida, do universo e de tudo é 42 
+
+- ⚡ A resposta à questão fundamental da vida, do universo e de tudo é 42.
 
 
 
