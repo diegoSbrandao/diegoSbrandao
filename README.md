@@ -8,7 +8,7 @@
 
 
 
-- 💻 Knowledge: HTML 5, CSS 3. 
+- 💻 Knowledge: HTML 5, CSS 3, C.
 
 - 🌱 Currently studying: JavaScript, Bootstrap, C#. 
 
