@@ -10,7 +10,7 @@
 
 - 💻 Knowledge: HTML 5, CSS 3, C.
 
-- 🌱 Currently studying: JavaScript,  
+- 🌱 Currently studying: JavaScript, Java.  
 
 - 👨‍💻 My projects <details> <summary> Click on the link below </summary> 🛠<a href="https://github.com/DSB88?tab=repositories">  <B> Link </B> </a> </details>
 
