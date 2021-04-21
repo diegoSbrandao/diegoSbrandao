@@ -44,8 +44,14 @@
 
 <details>
   <summary>GitHub Stats</summary>
-
+<br />
 ![Diego Brandão github stats](https://github-readme-stats.vercel.app/api?username=dsb88&show_icons=true&theme=midnight-purple)
+<br />
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsb88)](https://github.com/dsb88/github-readme-stats)
+
+ 
+
 
 </details>
 
