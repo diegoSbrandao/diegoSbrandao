@@ -6,7 +6,7 @@
 
 <img align="right" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="200" height="150" />
 
-
+<br>
 
 - 💻 Knowledge: HTML 5, CSS 3, C.
 
