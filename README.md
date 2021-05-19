@@ -32,6 +32,8 @@
 
 <img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Eclipse" width="36px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/eclipse_94656.png" />
+<img align="left" alt="Code::Blocks" width="36px" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/codeblocks_104542.png" />
+
 
 <img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
