@@ -1,6 +1,9 @@
 # Hello, I am Diego Brandão 🐱‍👤
 
  ![Profile View Counter](https://komarev.com/ghpvc/?username=dsb88)
+ 
+<img align="right" src= "https://img.shields.io/github/last-commit/dsb88/dsb88?style=flat-square">
+
 
 
 ## 👨‍🎓Student of Systems Analysis and Development - Fatec RL.
@@ -23,6 +26,8 @@
 ### Contact me:
 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-brandão-7b72b5202/)](https://www.linkedin.com/in/diego-brandão-7b72b5202/)
+  
+ 
 
 
 
