@@ -2,7 +2,7 @@
 
  ![Profile View Counter](https://komarev.com/ghpvc/?username=dsb88)
  
-<img align="right" src= "https://img.shields.io/github/last-commit/dsb88/dsb88?style=flat-square">
+<img align="right" src= "https://img.shields.io/github/followers/dsb88?label=Follow%20-%20Me&logoColor=blue&style=social">
 
 
 
