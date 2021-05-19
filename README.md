@@ -1,6 +1,6 @@
 # Hello, I am Diego Brandão 🐱‍👤
 
- ![Profile View Counter](https://komarev.com/ghpvc/?username=dsb88)
+![GitHub watchers](https://img.shields.io/github/watchers/dsb88/dsb88?logoColor=blue&style=social)
  
 
 
