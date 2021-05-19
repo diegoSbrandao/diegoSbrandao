@@ -25,6 +25,8 @@
 
 
 
+
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -37,7 +39,9 @@
 <img align="left" alt="C" width="36px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" />
 <img align="left" alt="Git" width="36px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_plain_wordmark_logo_icon_146508.png" />
 <img align="left" alt="GitHub" width="36px" src="https://cdn.icon-icons.com/icons2/1181/PNG/512/1490128251-epic-social-media-online-web-internet-github_82122.png" />
-
+  <a href="https://github.com/dsb88">
+    <img src="https://img.shields.io/github/followers/dsb88?label=follow&style=social" height="22" title="Follow me" align="center" alt="GitHub">
+</a>
 
 <br />
 <br />
@@ -63,3 +67,4 @@
 
 
 [linkedin]: https://linkedin.com/in/diego-brandão-7b72b5202/
+
