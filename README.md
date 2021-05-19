@@ -1,5 +1,6 @@
 # Hello, I am Diego Brandão 🐱‍👤
 
+ ![Profile View Counter](https://komarev.com/ghpvc/?username=dsb88)
 
 
 ## 👨‍🎓Student of Systems Analysis and Development - Fatec RL.
