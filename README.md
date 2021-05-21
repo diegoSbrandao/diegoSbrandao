@@ -1,8 +1,5 @@
 # Hello, I am Diego Brandão 🐱‍👤
 
-<img src="https://img.shields.io/github/watchers/dsb88/dsb88?logoColor=blue&style=social" height="22" title="Follow me" align="center" alt="GitHub">
- 
-
 
 
 ## 👨‍🎓Student of Systems Analysis and Development - Fatec RL.
