@@ -4,7 +4,9 @@
 
 ## 👨‍🎓Student of Systems Analysis and Development - Fatec RL.
 
-<img align="right" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="200" height="150" />
+<img align="right" src="https://media.giphy.com/media/voKRB2g96S8q4/giphy.gif?cid=790b761100038ed0a39ae57821b93ee42f62a832fb4de075&rid=giphy.gif&ct=g" width="200" height="150" />
+
+
 
 
 
