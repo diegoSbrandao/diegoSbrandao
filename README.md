@@ -23,7 +23,8 @@
 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-brandão-7b72b5202/)](https://www.linkedin.com/in/diego-brandão-7b72b5202/)  
   
-  [![HackerRank Badge](https://img.shields.io/badge/-HackerRank-darkgreen?style=flat-square&logo=HR&logoColor=black&link=https://www.hackerrank.com/diego_brandao/)](https://www.hackerrank.com/diego_brandao/)  
+ <a href="https://www.hackerrank.com/diego_brandao" target="blank"> <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="diego_brandao" height="30" width="40" /></a> 
+ <br />
 
  
 
