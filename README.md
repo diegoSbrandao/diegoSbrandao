@@ -22,8 +22,9 @@
 ### Contact me:
 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-brandão-7b72b5202/)](https://www.linkedin.com/in/diego-brandão-7b72b5202/)  
-  <a href="https://www.hackerrank.com/diego_brandao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thiagop_o" height="30" width="40" /></a>
   
+  [![HackerRank Badge](https://img.shields.io/badge/-HackerRank-darkgreen?style=flat-square&logo=HR&logoColor=black&link=https://www.hackerrank.com/diego_brandao/)](https://www.hackerrank.com/diego_brandao/)  
+
  
 
 
