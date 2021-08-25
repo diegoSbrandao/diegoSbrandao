@@ -1,4 +1,4 @@
-# Hello, I am Diego Brandão 🐱‍👤
+# Hello, I am Diego Brandão
 
 
 
