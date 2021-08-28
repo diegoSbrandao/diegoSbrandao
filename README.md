@@ -8,8 +8,7 @@
 
 
 
-
-
+------
 - 💻 Knowledge: HTML 5, CSS 3, C.
 
 - 🌱 Currently studying: Java, C++.  
@@ -17,7 +16,7 @@
 - 👨‍💻 My projects <details> <summary> Click on the link below </summary> 🛠<a href="https://github.com/DSB88?tab=repositories">  <B> Link </B> </a> </details>
 
 - ⚡ The answer to the fundamental question of life, the universe and everything is 42.
-
+------
 
 
 
@@ -52,13 +51,12 @@
 
 
 
-
 <br />
 <br />
 <br />
 
 
-
+------
 <details>
   <summary>GitHub Stats</summary>
 
