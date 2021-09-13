@@ -31,9 +31,7 @@
 [<img align="left" src="https://img.icons8.com/fluency/48/000000/love-circled.png"/>](https://biblia.com/bible/esv/john/3/16)
 
 <br />
-
-
-
+<br />
 
 
 ### Languages and Tools:
