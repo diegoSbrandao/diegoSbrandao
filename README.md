@@ -26,12 +26,11 @@
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.sousa.brandao@gmail.com
 )](diego.sousa.brandao@gmail.com)  
  <a href="https://www.hackerrank.com/diego_brandao" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="diego_brandao" height="30" width="40" /></a> 
- <br />
+ <br/>
  
+[<img align="left" src="https://img.icons8.com/fluency/48/000000/love-circled.png"/>](https://biblia.com/bible/esv/john/3/16)
 
-[<img src="https://img.icons8.com/fluency/48/000000/love-circled.png"/>](https://biblia.com/bible/esv/john/3/16)
-
-
+<br />
 
 
 
