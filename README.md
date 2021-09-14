@@ -22,14 +22,13 @@
 
 ### Contact me:
 
-  [![Linkedin Badge](https://img.shields.io/badge/-Diego-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-brandão-7b72b5202/)](https://www.linkedin.com/in/diego-brandão-7b72b5202/)   <br />
-    
-  [![Gmail Badge](https://img.shields.io/badge/-diego.sousa.brandao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.sousa.brandao@gmail.com)](mailto:diego.sousa.brandao@gmail.com)
+  [![Linkedin Badge](https://img.shields.io/badge/-Diego-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-brandão-7b72b5202/)](https://www.linkedin.com/in/diego-brandão-7b72b5202/) [![Gmail Badge](https://img.shields.io/badge/-diego.sousa.brandao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.sousa.brandao@gmail.com)](mailto:diego.sousa.brandao@gmail.com) <a href="https://www.hackerrank.com/diego_brandao" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="diego_brandao" height="30" width="40" /></a> [<img align="center" src="https://img.icons8.com/material-outlined/50/000000/heart-cross.png"/>](https://biblia.com/bible/esv/john/3/16)
+
  
- <a href="https://www.hackerrank.com/diego_brandao" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="diego_brandao" height="30" width="40" /></a> 
- <br/>
  
-[<img align="left" src="https://img.icons8.com/fluency/48/000000/love-circled.png"/>](https://biblia.com/bible/esv/john/3/16)
+
+ 
+
 
 <br />
 <br />
