@@ -22,7 +22,7 @@
 
 ### Contact me:
 
-  [![Linkedin Badge](https://img.shields.io/badge/-Diego-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-brandão-7b72b5202/)](https://www.linkedin.com/in/diego-brandão-7b72b5202/) [![Gmail Badge](https://img.shields.io/badge/-diego.sousa.brandao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.sousa.brandao@gmail.com)](mailto:diego.sousa.brandao@gmail.com) <a href="https://www.hackerrank.com/diego_brandao" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="diego_brandao" height="30" width="40" /></a> [<img align="center" src="https://img.icons8.com/dusk/25/000000/heart-cross.png"/>](https://biblia.com/bible/esv/john/3/16)
+  [![Linkedin Badge](https://img.shields.io/badge/-Diego-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-brandão-7b72b5202/)](https://www.linkedin.com/in/diego-brandão-7b72b5202/) [![Gmail Badge](https://img.shields.io/badge/-diego.sousa.brandao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.sousa.brandao@gmail.com)](mailto:diego.sousa.brandao@gmail.com) <a href="https://www.hackerrank.com/diego_brandao" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="diego_brandao" height="30" width="40" /></a> [<img align="center" src="https://img.icons8.com/dusk/32/000000/heart-cross.png"/>](https://biblia.com/bible/esv/john/3/16)
 
  
  
@@ -49,10 +49,6 @@
 <img align="left" alt="GitHub" width="36px" src="https://cdn.icon-icons.com/icons2/1181/PNG/512/1490128251-epic-social-media-online-web-internet-github_82122.png" />
 <img src="https://img.shields.io/github/followers/dsb88?color=black&label=Follow&logoColor=blue&style=social" height="22" title="Follow me" align="center" alt="GitHub">
 
-
-
-<br />
-<br />
 <br />
 
 
