@@ -9,9 +9,9 @@
 
 
 ------
-- 💻 Knowledge: HTML 5, CSS 3, C.
+- 💻 Knowledge: Java 8, C, HTML 5, CSS 3.
 
-- 🌱 Currently studying: Java, C++.  
+- 🌱 Currently studying: C++.  
 
 - 👨‍💻 My projects <details> <summary> Click on the link below </summary> 🛠<a href="https://github.com/DSB88?tab=repositories">  <B> Link </B> </a> </details>
 
