@@ -9,9 +9,11 @@
 
 
 ------
-- 💻 Knowledge: Java 8, C, HTML 5, CSS 3.
-
-- 🌱 Currently studying: C++.  
+- 💻 Knowledge: Java 8, C, C++, HTML 5, CSS 3;
+- 💻 Framework: Spring MVC, Spring Boot, Spring Data, Hibernate, JPA, Maven, JUnit;
+- 💻 Tools: Postman, Swagger, Heroku;
+- 💻 DataBase: MySQL, H2 database;
+- 🌱 Currently studying: ApiRESTFull, MicroService e Angular.  
 
 - 👨‍💻 My projects <details> <summary> Click on the link below </summary> 🛠<a href="https://github.com/DSB88?tab=repositories">  <B> Link </B> </a> </details>
 
