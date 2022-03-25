@@ -12,7 +12,7 @@
 - 💻 Knowledge: Java 8, SQL, C, C++, HTML 5, CSS 3;
 - 💻 Framework: SpringFramework{Spring MVC, Spring Boot, Spring Data, Spring Security}, Hibernate, JPA, Maven, JUnit;
 - 💻 Tools: Postman, Swagger, Heroku, Git and GitHub, IntelliJ IDEA, Visual Studio Code, Eclipse; 
-- 💻 DataBase: MySQL, H2 database, Flyway;;
+- 💻 DataBase: MySQL, H2 database, Flyway;
 - 🌱 Currently studying: ApiRESTFull, MicroService e Angular.  
 
 - 👨‍💻 My projects <details> <summary> Click on the link below </summary> 🛠<a href="https://github.com/DSB88?tab=repositories">  <B> Link </B> </a> </details>
