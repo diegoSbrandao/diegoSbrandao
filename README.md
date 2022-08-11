@@ -13,7 +13,7 @@
 - 💻 Framework: SpringFramework{Spring MVC, Spring Boot, Spring Data, Spring Security}, Hibernate, JPA, Maven, JUnit;
 - 💻 Tools: Postman, Swagger, Heroku, Git and GitHub, IntelliJ IDEA, Visual Studio Code, Eclipse; 
 - 💻 DataBase: MySQL, H2 database, Flyway;
-- 🌱 Currently studying: JavaScript, React-Native.  
+- 🌱 Currently studying: JavaScript.  
 
 - 👨‍💻 My projects <details> <summary> Click on the link below </summary> 🛠<a href="https://github.com/DSB88?tab=repositories">  <B> Link </B> </a> </details>
 
