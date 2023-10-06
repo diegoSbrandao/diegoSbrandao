@@ -2,7 +2,8 @@
 
 
 
-## Developer | Java | Spring Framework | Spring Boot |
+## Backend Developer | Java | Spring | Microservices | RESTful APIs | AWS | DevOps
+
 
 <img align="right" src="https://media.giphy.com/media/voKRB2g96S8q4/giphy.gif?cid=790b761100038ed0a39ae57821b93ee42f62a832fb4de075&rid=giphy.gif&ct=g" width="200" height="150" />
 
