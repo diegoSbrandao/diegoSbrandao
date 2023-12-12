@@ -10,7 +10,7 @@
 
 
 ------
-- 💻 Knowledge: Java 8 e 11, Node com Typescript, SQL, HTML 5, CSS 3; 
+- 💻 Knowledge: Java 8,11, 17, Node com Typescript, SQL, HTML 5, CSS 3; 
 - 💻 College knowledge: C, C++
 - 💻 Framework: SpringFramework{Spring MVC, Spring Boot, Spring Data, Spring Security, Spring Cloud OpenFeign}, Hibernate, JPA, Maven, JUnit 5, Angular;
 - 💻 DevOps: Docker, Mensageria {Rabbitmq}, Amazon S3, Google Cloud Storage, Jenkins;
