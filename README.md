@@ -10,13 +10,25 @@
 
 
 ------
-- 💻 Knowledge: Java 8, 11, 17, Node com Typescript, SQL;
-- 💻 College knowledge: C, C++
-- 💻 Framework: SpringFramework{Spring MVC, Spring Boot, Spring Data, Spring Security, Spring Cloud OpenFeign}, Hibernate, JPA, Maven, JUnit 5, Angular;
-- 💻 DevOps: Docker, Mensageria {Rabbitmq}, Amazon S3, Google Cloud Storage, Jenkins;
-- 💻 Tools: Postman, Swagger, Heroku, Git and GitHub, Bitbucket, IntelliJ IDEA, Visual Studio Code, Eclipse; 
-- 💻 DataBase: MySQL, PostgreSQL, H2 database, MongoDB, Flyway, Redis {p/ cacheamento}.
-- 🌱 Currently studying: Typescript e Angular.  
+Desenvolvedor Back-end experiente 3 anos de experiência em Java. Possui vasta experiência em frameworks Spring, como Spring Boot, Spring MVC e Spring Security. Atuou na criação, manutenção e melhorias em APIs, microsserviços, JDBC, JPA e Hibernate. Experiência com bancos de dados relacionais (PostgreSQL, MySQL) e NoSQL (MongoDB, Redis). Implementou melhorias de performance de código utilizando threads. Possui conhecimento em WebFlux, cacheamento com Redis e implementação de AWS (SQS AWS com filas FIFO). Atua em conformidade com padrões de design como SOLID e Clean Code. Experiência com testes de performance e stress com JMeter, testes unitários com JUnit 5 e Mockito. Atuação diária com CD/CI, Jenkins, SonarQube, Veracode, Git e Bitbucket.
+
+Habilidades:
+
+Java 8, 11 e 17
+Spring Boot, Spring MVC, Spring Security
+APIs, microsserviços
+JDBC, JPA, Hibernate
+PostgreSQL, MySQL, MongoDB, Redis
+Threads, WebFlux
+Cacheamento com Redis
+AWS SQS, RabbitMq, AWS S3, AWS ElastiCache
+SOLID, Clean Code
+Testes de performance e stress com JMeter
+Testes unitários com JUnit 5 e Mockito
+CD/CI, Jenkins, SonarQube, Veracode
+Git, Bitbucket
+Angular
+TypeScript
 
 - 👨‍💻 My projects <details> <summary> Click on the link below </summary> 🛠<a href="https://github.com/diegoSbrandao?tab=repositories">  <B> Link </B> </a> </details>
 
