@@ -10,7 +10,7 @@
 
 
 ------
-Desenvolvedor Back-end experiente 3 anos de experiência em Java. Possui vasta experiência em frameworks Spring, como Spring Boot, Spring MVC e Spring Security. Atuou na criação, manutenção e melhorias em APIs, microsserviços, JDBC, JPA e Hibernate. Experiência com bancos de dados relacionais (PostgreSQL, MySQL) e NoSQL (MongoDB, Redis). Implementou melhorias de performance de código utilizando threads. Possui conhecimento em WebFlux, cacheamento com Redis e implementação de AWS (SQS AWS com filas FIFO). Atua em conformidade com padrões de design como SOLID e Clean Code. Experiência com testes de performance e stress com JMeter, testes unitários com JUnit 5 e Mockito. Atuação diária com CD/CI, Jenkins, SonarQube, Veracode, Git e Bitbucket.
+Desenvolvedor Back-end com 3 anos de experiência em Java. Possui vasta experiência em frameworks Spring, como Spring Boot, Spring MVC e Spring Security. Atuou na criação, manutenção e melhorias em APIs, microsserviços, JDBC, JPA e Hibernate. Experiência com bancos de dados relacionais (PostgreSQL, MySQL) e NoSQL (MongoDB, Redis). Implementou melhorias de performance de código utilizando threads. Possui conhecimento em WebFlux, cacheamento com Redis e implementação de AWS (SQS AWS com filas FIFO). Atua em conformidade com padrões de design como SOLID e Clean Code. Experiência com testes de performance e stress com JMeter, testes unitários com JUnit 5 e Mockito. Atuação diária com CD/CI, Jenkins, SonarQube, Veracode, Git e Bitbucket.
 
 Habilidades:
 
