@@ -14,7 +14,7 @@ Desenvolvedor Back-end com 3 anos de experiência em Java. Possui vasta experiê
 
 Habilidades:
 
-Java 8, 11 e 17
+Java 8, 11, 17 e 21.
 Spring Boot, Spring MVC, Spring Security
 APIs, microsserviços
 JDBC, JPA, Hibernate
